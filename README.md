@@ -1,4 +1,4 @@
-# Projeto de extensão da Faculdade de Técnologia
+# Projeto de Extensão da Faculdade Estácio
 
 # Explicação do Código
 
